@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Anusri Pampari</title>
+    <link>https://panushri25.github.io/project/</link>
+    <description>Recent content in Projects on Anusri Pampari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 13 May 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://panushri25.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active Learning for GCN Based NER</title>
+      <link>https://panushri25.github.io/project/active_gcn/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/active_gcn/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Pedestrian Detection and Autonomous Braking</title>
+      <link>https://panushri25.github.io/project/auto_braking/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/auto_braking/</guid>
+      <description> Pedestrian Detection and Autonomous Braking  Object Detection using YOLO  </description>
+    </item>
+    
+    <item>
+      <title>Advanced Image Generation Methods</title>
+      <link>https://panushri25.github.io/project/adv_image_gen/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/adv_image_gen/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>ML based Predictions of Indian Rail Tickets</title>
+      <link>https://panushri25.github.io/project/indian_rail/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/indian_rail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distillation</title>
+      <link>https://panushri25.github.io/project/testing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/testing/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>HealthCare Applications on Hardware</title>
+      <link>https://panushri25.github.io/project/hardware/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/hardware/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>ML for Computational Biology</title>
+      <link>https://panushri25.github.io/project/compbio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/compbio/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+  </channel>
+</rss>

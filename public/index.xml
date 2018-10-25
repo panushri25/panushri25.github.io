@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anusri Pampari on Anusri Pampari</title>
+    <link>https://panushri25.github.io/</link>
+    <description>Recent content in Anusri Pampari on Anusri Pampari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Active Learning for GCN Based NER</title>
+      <link>https://panushri25.github.io/project/active_gcn/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/active_gcn/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/V_XLsYSgiHk&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+
+Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+
+Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+
+Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pedestrian Detection and Autonomous Braking</title>
+      <link>https://panushri25.github.io/project/auto_braking/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/auto_braking/</guid>
+      <description>
+
+&lt;h3 id=&#34;pedestrian-detection-and-autonomous-braking&#34;&gt;Pedestrian Detection and Autonomous Braking&lt;/h3&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/GqzZzr85BcQ&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;object-detection-using-yolo&#34;&gt;Object Detection using YOLO&lt;/h3&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/mw7m-TUcnqw&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Image Generation Methods</title>
+      <link>https://panushri25.github.io/project/adv_image_gen/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/adv_image_gen/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BLuiOQ7cBcI?start=158&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML based Predictions of Indian Rail Tickets</title>
+      <link>https://panushri25.github.io/project/indian_rail/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/indian_rail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Logical Forms for Electronic Medical Records</title>
+      <link>https://panushri25.github.io/talk/amia/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://panushri25.github.io/talk/amia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Network Architectures</title>
+      <link>https://panushri25.github.io/talk/rnn/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://panushri25.github.io/talk/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emrQA: A Large Corpus for Question Answering on Electronic Medical Recordss</title>
+      <link>https://panushri25.github.io/talk/emnlp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://panushri25.github.io/talk/emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distillation</title>
+      <link>https://panushri25.github.io/project/testing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/testing/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HealthCare Applications on Hardware</title>
+      <link>https://panushri25.github.io/project/hardware/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/hardware/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML for Computational Biology</title>
+      <link>https://panushri25.github.io/project/compbio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://panushri25.github.io/project/compbio/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Help Me Search: Collaborative Query Construction to Improve Retrieval Accuracy for Difficult Queries</title>
+      <link>https://panushri25.github.io/publication/helmesearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://panushri25.github.io/publication/helmesearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Predictive Embeddings for  Heterogeneous Molecular Networks</title>
+      <link>https://panushri25.github.io/publication/embedding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://panushri25.github.io/publication/embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emrQA: A Large Corpus for Question Answering on Electronic Medical Records</title>
+      <link>https://panushri25.github.io/publication/emrqa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://panushri25.github.io/publication/emrqa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
