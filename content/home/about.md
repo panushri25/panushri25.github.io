@@ -41,5 +41,5 @@ weight = 5
 
 # Biography
 
-I am Anusri Pampari. I am a graduate student in computer science at Stanford University, fortunate to be advised by Professor Anshul Kundaje. My research interests are focused in Regulatory Genomics, Machine Learning and Natural Language Processing. 
+I am Anusri Pampari. I am a CS PhD student at Stanford University fortunate to be advised by Professor Anshul Kundaje. My research interests are focused in Regulatory Genomics, Machine Learning and Natural Language Processing. 
 
