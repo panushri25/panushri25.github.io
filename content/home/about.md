@@ -18,11 +18,6 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Science"
-  institution = "Stanford Univeristy"
-  year = Ongoing
-  
-[[education.courses]]
   course = "MS in Computer Science"
   institution = "University Of Illinois Urbana-Champiagn"
   year = 2018
@@ -41,5 +36,5 @@ weight = 5
 
 # Biography
 
-I am Anusri Pampari. I am a CS PhD student at Stanford University fortunate to be advised by Professor Anshul Kundaje. My research interests are focused in Regulatory Genomics, Machine Learning and Natural Language Processing. 
+I am Anusri Pampari, CS PhD student at Stanford University fortunate to be advised by Professor Anshul Kundaje. My research interests are focused in Regulatory Genomics, Machine Learning and Natural Language Processing. 
 
